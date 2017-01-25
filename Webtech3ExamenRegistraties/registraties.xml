@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<registraties>
+<registratie id="1" datum="25/01/2017" tijd="17:05" patiënt_firstname="Patje" patiënt_lastname="Boemans" birthday="25/10/1995" verpleegkundige_name="Gregory House" diagnose="Shock van examen">
+	<uri>registratie/1</uri>
+</registratie>
+
+</registraties>
